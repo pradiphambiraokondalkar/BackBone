@@ -1,3 +1,4 @@
+const Center='Center';
 const LEFT_PAGE = 'LEFT';
 const RIGHT_PAGE = 'RIGHT';
 
